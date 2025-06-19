@@ -1,0 +1,11 @@
+streamlit
+Pillow
+pytesseract
+opencv-python
+pdf2image
+numpy
+torch
+layoutparser
+transformers
+pandas
+PyMuPDF
